@@ -1,0 +1,12 @@
+/Users/GreaserSec/Projects/Week2Assignment_/bin/Debug/netcoreapp3.1/Week2Assignment_.deps.json
+/Users/GreaserSec/Projects/Week2Assignment_/bin/Debug/netcoreapp3.1/Week2Assignment_.runtimeconfig.json
+/Users/GreaserSec/Projects/Week2Assignment_/bin/Debug/netcoreapp3.1/Week2Assignment_.runtimeconfig.dev.json
+/Users/GreaserSec/Projects/Week2Assignment_/bin/Debug/netcoreapp3.1/Week2Assignment_.dll
+/Users/GreaserSec/Projects/Week2Assignment_/bin/Debug/netcoreapp3.1/Week2Assignment_.pdb
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.csproj.AssemblyReference.cache
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.AssemblyInfoInputs.cache
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.AssemblyInfo.cs
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.csproj.CoreCompileInputs.cache
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.dll
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.pdb
+/Users/GreaserSec/Projects/Week2Assignment_/obj/Debug/netcoreapp3.1/Week2Assignment_.genruntimeconfig.cache
